@@ -1,4 +1,6 @@
-## Hi there 👋
+## Welcome to Discord Nexus!
+
+soon!
 
 <!--
 
